@@ -1,0 +1,17 @@
+Settings:
+  Prefix: '§8[§e§lAutoTotem§8] '
+  Permission:
+    Use: true
+    PermissionName: autototem.use
+  TimerForVanillaTotems: false
+  Timer:
+    Use: false
+    Time: 20
+    Announce: true
+    AnnounceMessage: '%prefix% §7You have to wait §c§l%s% §7until you can use the
+      totem again.'
+    AnnounceWhenFinished: true
+    AnnounceWhenFinishedMessage: '%prefix% §7You are able to use your free totem again!'
+    ResetOnDeath: true
+    ResetOnDeathSendMessage: true
+    ResetOnDeathMessage: '%prefix% §7Your totem timer got §areset§7!'

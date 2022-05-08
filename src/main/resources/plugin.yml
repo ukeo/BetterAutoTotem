@@ -1,0 +1,12 @@
+name: AutoTotem
+version: '${project.version}'
+main: de.ukeo.autototem.AutoTotem
+api-version: 1.18
+prefix: BAT
+authors: [ Espen ]
+description: Automatically adds totem to a dieing player
+website: https://imposdev.eu
+
+
+commands:
+  batreload:
